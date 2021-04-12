@@ -1,0 +1,12 @@
+.sec_header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 20% 0 20%;
+    height: 100px;
+}
+
+.head_ul li{
+    font-size: 30px;
+    display: inline;
+    margin: 20px;
+}
